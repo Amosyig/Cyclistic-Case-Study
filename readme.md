@@ -35,7 +35,7 @@ Lorem ipsum
 
 
 
-### Lorem ipsum according to the pages of the report or dashboard.  
+### according to the pages of the report or dashboard.  
 
 
 
