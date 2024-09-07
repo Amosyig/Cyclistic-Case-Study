@@ -40,7 +40,8 @@ I found that member riders made more trips than casual riders, with 2.45 million
 3. Distribute a survey to casual riders to gather qualitative data that could provide deeper insights. For instance, why is the average ride length for casual riders nearly double that of member riders? Understanding this could uncover valuable information about their preferences and help in developing strategies to convert them into annual members.
 
 
-This is a link to a medium post for more details: 
-![Lorem Ipsum]()
+for a more detailed walk through the data analysis processs, you can click on this link: 
+
+https://www.datascienceportfol.io/yole_amos/projects/1
 
 Thanks!
